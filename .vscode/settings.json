@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "157.253.236.120",
+            "port": 8080,
+            "driver": "MySQL",
+            "name": "Uniandes",
+            "database": "DB_202615_df_perezj",
+            "username": "DB_202615_df_perezj"
+        }
+    ]
+}
